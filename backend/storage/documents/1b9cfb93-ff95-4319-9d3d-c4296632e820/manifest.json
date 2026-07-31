@@ -1,0 +1,45 @@
+{
+    "document_id": "1b9cfb93-ff95-4319-9d3d-c4296632e820",
+    "created_at": "2026-07-13T07:29:36.161124Z",
+    "updated_at": "2026-07-13T07:29:41.470899Z",
+    "parser": "docling",
+    "parser_version": null,
+    "embedding_model": null,
+    "chunking_strategy": null,
+    "validation": {
+        "completed": true,
+        "timestamp": "2026-07-13T07:29:36.161124Z",
+        "version": "1.0"
+    },
+    "parsing": {
+        "completed": true,
+        "timestamp": "2026-07-13T07:29:41.467891Z",
+        "version": "docling"
+    },
+    "metadata": {
+        "completed": true,
+        "timestamp": "2026-07-13T07:29:41.470899Z",
+        "version": "1.0"
+    },
+    "chunking": {
+        "completed": true,
+        "timestamp": "2026-07-13T07:29:41.475133Z",
+        "version": "academic-v1"
+    },
+    "embedding": {
+        "completed": true,
+        "timestamp": "2026-07-13T07:29:45.391766Z",
+        "version": "bge-m3"
+    },
+    "chunk_count": 14,
+    "indexing": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    },
+    "vector_store": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    }
+}

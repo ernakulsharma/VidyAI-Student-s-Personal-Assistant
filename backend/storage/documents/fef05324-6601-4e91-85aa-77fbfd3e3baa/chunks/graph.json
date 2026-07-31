@@ -1,0 +1,147 @@
+{
+    "1": {
+        "previous": null,
+        "next": 2,
+        "keywords": [
+            "Problem",
+            "Reduction",
+            "have",
+            "considered",
+            "search",
+            "strategies",
+            "graph",
+            "several",
+            "arcs",
+            "indicate",
+            "variety",
+            "ways",
+            "which",
+            "original",
+            "problem"
+        ]
+    },
+    "2": {
+        "previous": 1,
+        "next": 3,
+        "keywords": [
+            "graph",
+            "Search",
+            "Traverse",
+            "starting",
+            "initial",
+            "node",
+            "follow",
+            "current",
+            "best",
+            "path",
+            "accumulate",
+            "nodes",
+            "that",
+            "which",
+            "have"
+        ]
+    },
+    "3": {
+        "previous": 2,
+        "next": 4,
+        "keywords": [
+            "Solve",
+            "labeling",
+            "Procedure",
+            "terminal",
+            "node",
+            "labeled",
+            "solved",
+            "goal",
+            "representing",
+            "solution",
+            "problem",
+            "otherwise",
+            "label",
+            "unsolved",
+            "that"
+        ]
+    },
+    "4": {
+        "previous": 3,
+        "next": 5,
+        "keywords": [
+            "image"
+        ]
+    },
+    "5": {
+        "previous": 4,
+        "next": 6,
+        "keywords": [
+            "image"
+        ]
+    },
+    "6": {
+        "previous": 5,
+        "next": 7,
+        "keywords": [
+            "Remarks",
+            "first",
+            "cycle",
+            "expanded",
+            "second",
+            "third",
+            "fourth",
+            "After",
+            "expended",
+            "node",
+            "gets",
+            "label",
+            "SOLVED",
+            "solution",
+            "graph"
+        ]
+    },
+    "7": {
+        "previous": 6,
+        "next": 8,
+        "keywords": [
+            "Example",
+            "image",
+            "Date",
+            "Page",
+            "Path",
+            "revised"
+        ]
+    },
+    "8": {
+        "previous": 7,
+        "next": 9,
+        "keywords": [
+            "EXAMPLE",
+            "image"
+        ]
+    },
+    "9": {
+        "previous": 8,
+        "next": 10,
+        "keywords": [
+            "EXAMPLE",
+            "CONTD",
+            "image"
+        ]
+    },
+    "10": {
+        "previous": 9,
+        "next": 11,
+        "keywords": [
+            "EXAMPLE",
+            "CONTD",
+            "image"
+        ]
+    },
+    "11": {
+        "previous": 10,
+        "next": null,
+        "keywords": [
+            "EXAMPLE",
+            "CONTD",
+            "image"
+        ]
+    }
+}

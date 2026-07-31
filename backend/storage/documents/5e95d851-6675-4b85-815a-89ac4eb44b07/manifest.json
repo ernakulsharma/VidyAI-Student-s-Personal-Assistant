@@ -1,0 +1,45 @@
+{
+    "document_id": "5e95d851-6675-4b85-815a-89ac4eb44b07",
+    "created_at": "2026-07-29T10:55:03.305710Z",
+    "updated_at": "2026-07-29T10:55:03.305710Z",
+    "parser": "docling",
+    "parser_version": null,
+    "embedding_model": null,
+    "chunking_strategy": null,
+    "validation": {
+        "completed": true,
+        "timestamp": "2026-07-29T10:55:03.305710Z",
+        "version": "1.0"
+    },
+    "parsing": {
+        "completed": true,
+        "timestamp": "2026-07-29T10:55:08.040955Z",
+        "version": "docling"
+    },
+    "metadata": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    },
+    "chunking": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    },
+    "embedding": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    },
+    "chunk_count": 0,
+    "indexing": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    },
+    "vector_store": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    }
+}

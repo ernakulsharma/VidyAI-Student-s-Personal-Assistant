@@ -1,0 +1,40 @@
+{
+    "document_id": "a0bd6d1f-c71c-4f34-bc4b-2fef22b8dca3",
+    "created_at": "2026-07-06T10:24:15.770397Z",
+    "updated_at": "2026-07-06T10:24:19.961937Z",
+    "parser": "docling",
+    "parser_version": null,
+    "embedding_model": null,
+    "chunking_strategy": null,
+    "validation": {
+        "completed": true,
+        "timestamp": "2026-07-06T10:24:15.771401Z",
+        "version": "1.0"
+    },
+    "parsing": {
+        "completed": true,
+        "timestamp": "2026-07-06T10:24:19.958458Z",
+        "version": "docling"
+    },
+    "metadata": {
+        "completed": true,
+        "timestamp": "2026-07-06T10:24:19.962937Z",
+        "version": "1.0"
+    },
+    "chunking": {
+        "completed": true,
+        "timestamp": "2026-07-06T10:24:19.965017Z",
+        "version": "academic-v1"
+    },
+    "embedding": {
+        "completed": true,
+        "timestamp": "2026-07-06T10:24:24.024246Z",
+        "version": "bge-m3"
+    },
+    "chunk_count": 14,
+    "indexing": {
+        "completed": false,
+        "timestamp": null,
+        "version": null
+    }
+}

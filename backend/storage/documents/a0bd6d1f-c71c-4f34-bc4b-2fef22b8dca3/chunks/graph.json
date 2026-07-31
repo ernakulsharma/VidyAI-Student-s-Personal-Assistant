@@ -1,0 +1,232 @@
+{
+    "1": {
+        "previous": null,
+        "next": 2,
+        "keywords": [
+            "image",
+            "Education"
+        ]
+    },
+    "2": {
+        "previous": 1,
+        "next": 3,
+        "keywords": [
+            "Thapar",
+            "Institute",
+            "Engineering",
+            "Technology",
+            "August",
+            "Bachelor",
+            "Computer",
+            "Science",
+            "Business",
+            "System",
+            "CGPA",
+            "Patiala",
+            "Punjab"
+        ]
+    },
+    "3": {
+        "previous": 2,
+        "next": 4,
+        "keywords": [
+            "School",
+            "Eminence",
+            "PheelKhana",
+            "April",
+            "March",
+            "High",
+            "Diploma",
+            "Science",
+            "Mathematics",
+            "Physics",
+            "Chemistry",
+            "Percentage",
+            "Patiala",
+            "Punjab"
+        ]
+    },
+    "4": {
+        "previous": 3,
+        "next": 5,
+        "keywords": [
+            "Experience"
+        ]
+    },
+    "5": {
+        "previous": 4,
+        "next": 6,
+        "keywords": [
+            "Ministry",
+            "Statistics",
+            "Research",
+            "Fellowship",
+            "Researched",
+            "developed",
+            "approach",
+            "estimating",
+            "monthly",
+            "capita",
+            "expenditure",
+            "households",
+            "including",
+            "feature",
+            "selection"
+        ]
+    },
+    "6": {
+        "previous": 5,
+        "next": 7,
+        "keywords": [
+            "Thapar",
+            "Institute",
+            "Engineering",
+            "Technology"
+        ]
+    },
+    "7": {
+        "previous": 6,
+        "next": 8,
+        "keywords": [
+            "Research",
+            "Assistant",
+            "Designed",
+            "optimized",
+            "integrated",
+            "architectures",
+            "real",
+            "world",
+            "image",
+            "classi",
+            "surpassing",
+            "current",
+            "accuracies",
+            "publishing",
+            "percent"
+        ]
+    },
+    "8": {
+        "previous": 7,
+        "next": 9,
+        "keywords": [
+            "Projects"
+        ]
+    },
+    "9": {
+        "previous": 8,
+        "next": 10,
+        "keywords": [
+            "VidyAI",
+            "Python",
+            "Vector",
+            "Databases",
+            "Finetuning",
+            "Methods",
+            "Agent",
+            "Work",
+            "FastAPI",
+            "React",
+            "Built",
+            "powered",
+            "academic",
+            "assistant",
+            "using"
+        ]
+    },
+    "10": {
+        "previous": 9,
+        "next": 11,
+        "keywords": [
+            "GovIntel",
+            "Python",
+            "llama",
+            "MongoDB",
+            "Deep",
+            "Translator",
+            "Streamlit",
+            "Developed",
+            "based",
+            "multi",
+            "label",
+            "classi",
+            "National",
+            "Industrial",
+            "Classi"
+        ]
+    },
+    "11": {
+        "previous": 10,
+        "next": 12,
+        "keywords": [
+            "VidhiLM",
+            "Python",
+            "Google",
+            "Cloud",
+            "Platform",
+            "Engineered",
+            "powered",
+            "legal",
+            "assistant",
+            "tackle",
+            "query",
+            "resolution",
+            "case",
+            "classi",
+            "actionable"
+        ]
+    },
+    "12": {
+        "previous": 11,
+        "next": 13,
+        "keywords": [
+            "Technical",
+            "Skills",
+            "Core",
+            "Python",
+            "Scikit",
+            "learn",
+            "PyTorch",
+            "Hugging",
+            "Face",
+            "Machine",
+            "Learning",
+            "Algorithms",
+            "XGBoost",
+            "Decision",
+            "trees"
+        ]
+    },
+    "13": {
+        "previous": 12,
+        "next": 14,
+        "keywords": [
+            "Extra",
+            "Curricular",
+            "Achievements",
+            "Awards",
+            "First",
+            "Runner",
+            "HackSecure",
+            "International",
+            "Hackathon",
+            "organized",
+            "University",
+            "South",
+            "Florida",
+            "Bagged",
+            "Position"
+        ]
+    },
+    "14": {
+        "previous": 13,
+        "next": null,
+        "keywords": [
+            "Nakul",
+            "Sharma",
+            "image",
+            "linkedin",
+            "August",
+            "Present"
+        ]
+    }
+}
