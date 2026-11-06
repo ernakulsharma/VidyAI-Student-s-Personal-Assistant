@@ -45,12 +45,12 @@ export default function ChatPage() {
 
   async function uploadFile(file?: File) {
     if (!file) return;
-    if (!file.toLowerCase && file.type !== "application/pdf" && !file.name.toLowerCase().endsWith(".pdf")) {
+    if (file.type !== "application/pdf" && !file.name.toLowerCase().endsWith(".pdf")) {
       setNotice("Please choose a PDF file.");
       return;
     }
 
-    setUploading(true);
+    if (file.size > 25 * 1024 * 1024) {\n      setNotice("PDFs must be 25 MB or smaller.");\n      return;\n    }\n\n    setUploading(true);
     setNotice("");
     const body = new FormData();
     body.append("file", file);
