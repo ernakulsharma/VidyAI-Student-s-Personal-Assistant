@@ -12,15 +12,9 @@ service = RAGService()
 
 
 @router.post("/query")
-async def query(
-    request: QueryRequest,
-):
-
-    answer = service.answer(
-        request.query
-    )
-
+async def query(request: QueryRequest):
+    result = service.answer_with_sources(request.query)
     return {
         "question": request.query,
-        "answer": answer,
+        **result,
     }
