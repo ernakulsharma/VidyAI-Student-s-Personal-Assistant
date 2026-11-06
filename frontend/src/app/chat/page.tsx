@@ -50,7 +50,12 @@ export default function ChatPage() {
       return;
     }
 
-    if (file.size > 25 * 1024 * 1024) {\n      setNotice("PDFs must be 25 MB or smaller.");\n      return;\n    }\n\n    setUploading(true);
+    if (file.size > 25 * 1024 * 1024) {
+      setNotice("PDFs must be 25 MB or smaller.");
+      return;
+    }
+
+    setUploading(true);
     setNotice("");
     const body = new FormData();
     body.append("file", file);
