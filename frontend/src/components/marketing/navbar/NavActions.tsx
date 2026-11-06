@@ -7,9 +7,8 @@ export default function NavActions() {
       <Button variant="ghost" asChild>
         <Link href="/login">Login</Link>
       </Button>
-
       <Button asChild>
-        <Link href="/">Get Started</Link>
+        <Link href="/chat">Open workspace</Link>
       </Button>
     </div>
   );
