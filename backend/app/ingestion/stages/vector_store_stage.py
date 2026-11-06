@@ -7,30 +7,21 @@ from app.vectorstore.chroma_store import ChromaStore
 
 
 class VectorStoreStage(BaseStage):
-
     def __init__(self):
         self.store = ChromaStore()
 
-    def process(
-        self,
-        context: PipelineContext,
-    ):
-
+    def process(self, context: PipelineContext):
         logger.info("Storing vectors in ChromaDB...")
 
         ids = [
             f"{context.document_id}_{chunk.chunk_id}"
             for chunk in context.chunks
         ]
-
-        documents = [
-            chunk.content
-            for chunk in context.chunks
-        ]
-
+        documents = [chunk.content for chunk in context.chunks]
         metadatas = [
             {
                 "document_id": str(context.document_id),
+                "filename": context.metadata.original_filename,
                 "chunk_id": chunk.chunk_id,
                 "heading": chunk.heading or "",
             }
